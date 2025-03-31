@@ -1,6 +1,7 @@
 {
   "name": "xml-convert-euckr-to-utf8",
   "version": "1.0.0",
+  "type": "module",
   "description": "Convert EUC-KR encoded XML to UTF-8 for 11st API integration",
   "main": "convert-server.js",
   "scripts": {
